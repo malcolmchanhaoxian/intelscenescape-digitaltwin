@@ -18,5 +18,5 @@ devices:
 ```
 
 #### Additional
-The out-of-box experience can be downloaded directly from Scenescape's git repo. 
+The out-of-box experience can be downloaded directly from Scenescape's [git repo](https://github.com/open-edge-platform/scenescape). 
 I have provided an additional 3D file for the queuing scene provided in the default Scenescape. 
